@@ -9,7 +9,7 @@ export default function Home() {
         <title>Excel to HTML</title>
       </Head>
       <main>
-        <h1>Upload and Display Excel Data</h1>
+        <h1>Upload and Display </h1>
         <ExcelUploader />
       </main>
     </div>
